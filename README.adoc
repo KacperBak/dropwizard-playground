@@ -27,5 +27,13 @@ shaded: true
 ....
 
 ## Sources
+
+### Dropwizard
 * https://www.dropwizard.io/en/latest/getting-started.html#overview[Main Documentation]
 * https://github.com/dropwizard/dropwizard/tree/master/dropwizard-example[Git Hub Repo with examples]
+
+### Dockerize a Java Image
+* https://github.com/GoogleContainerTools/jib[Jib - Containerize your Maven | Gradke project]
+* https://phauer.com/2019/no-fat-jar-in-docker-image/[Don't Put Fat Jars in Docker Images >> Jib4win]
+* https://dzone.com/articles/build-docker-image-from-maven[Build Docker Image with Exec Maven Plugin]
+* https://github.com/fabric8io/docker-maven-plugin[fabric8io Maven Plugin for builing images and integration test usage]
