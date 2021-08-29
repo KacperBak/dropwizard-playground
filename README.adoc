@@ -1,0 +1,24 @@
+# README
+
+Simple playground application created via mvn archetype with the following parameters
+....
+Define value for property 'groupId': de.kacperbak
+Define value for property 'artifactId': dropwizardplayground
+Define value for property 'version' 1.0-SNAPSHOT: :
+Define value for property 'package' de.kacperbak: :
+Define value for property 'description': Stranger Description
+Define value for property 'name': Stranger
+Define value for property 'shaded' true: :
+Confirm properties configuration:
+groupId: de.kacperbak
+artifactId: dropwizardplayground
+version: 1.0-SNAPSHOT
+package: de.kacperbak
+description: Stranger Description
+name: Stranger
+shaded: true
+....
+
+## Sources
+* https://www.dropwizard.io/en/latest/getting-started.html#overview[Main Documentation]
+* https://github.com/dropwizard/dropwizard/tree/master/dropwizard-example[Git Hub Repo with examples]
