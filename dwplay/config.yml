@@ -1,3 +1,5 @@
+template: Hello, %s!
+defaultName: Stranger Things
 logging:
   level: INFO
   loggers:
