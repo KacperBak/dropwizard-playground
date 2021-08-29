@@ -1,21 +1,28 @@
 # README
 
 Simple playground application created via mvn archetype with the following parameters
+
+Archetype command
+....
+mvn archetype:generate -DarchetypeGroupId=io.dropwizard.archetypes -DarchetypeArtifactId=java-simple -DarchetypeVersion=2.0.24
+....
+
+.Params
 ....
 Define value for property 'groupId': de.kacperbak
-Define value for property 'artifactId': dropwizardplayground
-Define value for property 'version' 1.0-SNAPSHOT: :
-Define value for property 'package' de.kacperbak: :
-Define value for property 'description': Stranger Description
-Define value for property 'name': Stranger
-Define value for property 'shaded' true: :
+Define value for property 'artifactId': dwplay    
+Define value for property 'version' 1.0-SNAPSHOT: : 
+Define value for property 'package' de.kacperbak: : 
+[INFO] Using property: description = null
+Define value for property 'name': dwplay
+[INFO] Using property: shaded = true
 Confirm properties configuration:
 groupId: de.kacperbak
-artifactId: dropwizardplayground
+artifactId: dwplay
 version: 1.0-SNAPSHOT
 package: de.kacperbak
-description: Stranger Description
-name: Stranger
+description: null
+name: dwplay
 shaded: true
 ....
 

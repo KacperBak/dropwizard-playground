@@ -11,10 +11,10 @@ build
 .vscode
 
 # Ignore Maven Target Dir
-dropwizardplayground/target/
-dropwizardplayground/bin/
+dwplay/target/
+dwplay/bin/
 
 # Ignore eclipse specs
-dropwizardplayground/.classpath
-dropwizardplayground/.project
-dropwizardplayground/.settings/
+dwplay/.classpath
+dwplay/.project
+dwplay/.settings/
